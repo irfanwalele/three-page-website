@@ -32,14 +32,14 @@ GIFs. YES
 
 CSS Requirements
 
-Make use of inline, internal, and external styling.
+Make use of inline, internal, and external styling. YES
 
-Use five different CSS selectors.
+Use five different CSS selectors. YES
 
-Use colors that complement each other.
+Use colors that complement each other. YES
 
 Coolors is one of many resources that can help you find a color palette.
 
 Use Flexbox and/or the Bootstrap Grid.
 
-Use at least two CSS animations.
+Use at least two CSS animations. YES
