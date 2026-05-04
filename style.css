@@ -1,0 +1,20 @@
+.nav {
+    position: fixed;
+}
+
+body {
+    background-color: solid black;
+}
+
+.container {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.page-item .pagination pagination-lg {
+    display: block flex;
+    border: 1px solid purple;
+    justify-content: end;
+    position: relative;
+}
