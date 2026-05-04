@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Three Page Website</title>
+    <!--Below is linking to the external stylesheet-->
+    <link rel="stylesheet" href="style.css">
+    <!--Below is BootStrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+
+<body>
+    <!--This is the start of the navigation-->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">United States Geography</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    Dropdown for regions
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="index.html">Home</a></li>
+                    <li><a class="dropdown-item" href="page2.html">East Coast</a></li>
+                    <li><a class="dropdown-item" href="page3.html">West Coast</a></li>
+                    <li><a class="dropdown-item" href="page4.html">South</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+</nav>
+<h1>East Coast</h1>
+<img src="eastcoast.png" alt="eastcoast" id="eastcoast">
+    <!--This is the end of the navigation bar-->
+
+    <!--This is the pagination-->
+    <!-- <nav aria-label="Page navigation example"> -->
+    <ul class="pagination pagination-lg"">
+
+        <li class=" page-item"><a class="page-link" href="index.html">1</a></li>
+        <li class="page-item"><a class="page-link" href="page2.html">2</a></li>
+        <li class="page-item"><a class="page-link" href="page3.html">3</a></li>
+        <li class="page-item"><a class="page-link" href="page4.html">4</a></li>
+
+    </ul>
+    <!-- </nav> -->
+    <!--This is the end of pagination-->
+
+    <!-- Below is a part of bootstrap, it needs to be before the end body tag-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
