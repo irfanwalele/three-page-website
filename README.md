@@ -20,20 +20,13 @@ Include at least one table. YES
 Include at least one dropdown menu. YES
 Images. YES
 Keep the grid system consistent between pages as much as possible. YES - Nav Bar, Pagination
-
-
-Use at least ten different HTML tags.
-
-
-Include at least two forms.
-
+Use at least ten different HTML tags. YES
+Include at least two forms. YES
 
 Include at least one of each of the following forms of content: 
 
-Text.
-
-
-GIFs.
+Text. YES
+GIFs. YES
 
 (See resource links above for some free content of each of these types.)
 

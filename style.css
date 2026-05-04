@@ -14,6 +14,13 @@ body {
     flex-wrap: wrap;
 }
 
+.form2 {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    bottom: auto;
+}
+
 .pagination {
     width: auto;
     display: flex;
