@@ -3,7 +3,9 @@
 }
 
 body {
-    background-color: solid black;
+    height: 100vh;
+    background-color: black;
+    border: 1px solid black;
 }
 
 .container {
@@ -12,9 +14,10 @@ body {
     flex-wrap: wrap;
 }
 
-.page-item .pagination pagination-lg {
-    display: block flex;
+.pagination {
+    display: flex;
     border: 1px solid purple;
     justify-content: end;
-    position: relative;
+    position: absolute;
+    bottom: 0;
 }
