@@ -19,8 +19,8 @@ Have at least three pages. YES
 Include at least one table. YES
 Include at least one dropdown menu. YES
 Images. YES
+Keep the grid system consistent between pages as much as possible. YES - Nav Bar, Pagination
 
-Keep the grid system consistent between pages as much as possible.
 
 Use at least ten different HTML tags.
 
